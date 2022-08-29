@@ -6,8 +6,6 @@ sub3          = "10.1.2.0/24"
 sub4          = "10.1.3.0/24"
 
 #AWS Settings
-aws_access_key = "AKIA57X5R6ZVHE3ZYOP5"
-aws_secret_key = "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"
 aws_region     = "us-east-1"
 
 #Linux Virtual Machine
